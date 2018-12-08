@@ -1,0 +1,7 @@
+.Exchange_Rate__Currency_convert.py.swp
+.ipynb_checkpoints
+Untitled.ipynb
+Untitled1.ipynb
+list_dir.py
+list_file_and_dir_names.ipynb
+manifest.txt
