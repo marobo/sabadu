@@ -35,4 +35,4 @@
 
 5. Run sh file with `./setup_phone.sh`  then every apps should installing on your mobile.
 
-6. For more information and documents about Android ADB Install / Uninstall App Examples please visit this [document](https://www.dev2qa.com/android-adb-install-uninstall-app-examples/). Thanks You... Ony.
+6. For more information and documents about Android ADB Install / Uninstall App Examples please visit this [document](https://www.dev2qa.com/android-adb-install-uninstall-app-examples/). Thank You... Ony.
